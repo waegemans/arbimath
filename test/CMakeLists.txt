@@ -1,4 +1,5 @@
 set(TEST_SOURCES
+        TestAddition.cpp
         TestConstructor.cpp
         Tester.cpp
     )
